@@ -224,5 +224,5 @@ yarl==1.9.4
 zope.interface==6.4.post2
 fastapi==0.112.1
 uvicorn==0.30.6
-pandas==2.0.1
+pandas==2.2.2
 pytz==2023.3 
